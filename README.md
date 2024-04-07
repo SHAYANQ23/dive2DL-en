@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/d2l-ai/d2l-en/master/static/logo-with-text.png" width="350">
 </div>
 
+# To run in Jupiter notebooks:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d2l-ai/d2l-en/HEAD)
+
 # D2L.ai: Interactive Deep Learning Book with Multi-Framework Code, Math, and Discussions
 
 [![Continuous Integration](https://github.com/d2l-ai/d2l-en/actions/workflows/ci.yml/badge.svg)](https://github.com/d2l-ai/d2l-en/actions/workflows/ci.yml)
